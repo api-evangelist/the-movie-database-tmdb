@@ -1,0 +1,43 @@
+{
+    "name": "The Movie Database (TMDb)",
+    "description": "<p>The Movie Database (TMDb) was started as a side project in 2008 to help the media center community serve high resolution posters and fan art. What started as a simple image sharing community has turned into one of the most actively user edited movie database on the Internet. With an initial data contribution from a project called OMDB (thank you!), the goal was to create our own product and service. We launched the first version of the database in early 2009. Along with the website we also launched one of first and only free movie data API's.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/themoviedb.jpeg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/the-movie-database-tmdb\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Movie Database (TMDb)",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/themoviedb.jpeg",
+            "humanURL": "https:\/\/www.themoviedb.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-movie-database-tmdb-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.themoviedb.org\/documentation\/api"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/themoviedb"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.themoviedb.org"
+        }
+    ]
+}
